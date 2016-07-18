@@ -1,0 +1,32 @@
+.parralax-container {
+  position: relative;
+  height: 640px;
+  width: 100%;
+  background-image: url("/images/background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+
+}
+
+.left-branch {
+  position: absolute;
+}
+
+.right-branch {
+  position: absolute;
+  width: 100%;
+  bottom: 0px;
+}
+
+.vader{
+  position: absolute;
+  width:
+  bottom: 0px;
+  z-index: 999;
+}
+
+.lorem p {
+  margin-top: 20vh;
+
+}
